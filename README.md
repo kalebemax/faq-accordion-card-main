@@ -8,7 +8,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-card-main-BD_UljvzWj)
 - Live Site URL: [GitHub](https://kalebemax.github.io/faq-accordion-card-main/)
 
 
